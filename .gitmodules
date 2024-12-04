@@ -1,0 +1,6 @@
+[submodule "MyFx3.0"]
+	path = MyFx3.0
+	url = https://github.com/yunzhuchen0123/MyFx3.0.git
+[submodule "course-registration-system"]
+	path = course-registration-system
+	url = https://github.com/dulcimer2022/INFO5100-Final.git
